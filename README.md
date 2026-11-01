@@ -661,3 +661,4 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 - [Upword](https://somi.ai/products/upword) -AI-powered research tool for teams that transforms content into knowledge 10x faster. [![link]](https://www.upword.ai/)
 - [Ottogrid](https://somi.ai/products/ottogrid) - Automate manual research with AI Agents. [![link]](https://ottogrid.ai/)
 - [Mindgrasp AI](https://somi.ai/products/mindgrasp-ai) - AI-powered learning assistant [![link]](https://www.mindgrasp.ai/)
+- [Pulse](https://pulsecorp.co) - AI-moderated customer interviews for market research. [![link]](https://pulsecorp.co)
