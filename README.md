@@ -436,6 +436,7 @@ Let me know if you'd like to include categories (e.g. Text Generation, Audio Too
 - [Descript](https://somi.ai/products/descript) - AI-powered fully featured end-to-end video editor. [![link]](https://get.descript.com/somi-ai)
 - [DupDub](https://somi.ai/products/dup-dub) - AI-powered creative suite for content creation. [![link]](http://www.dupdub.com/?via=somi-ai)
 - [Vmaker](https://somi.ai/products/vmaker) - Turn your raw videos into wow videos in minutes. [![link]](https://www.vmaker.com/)
+- [Karaoke Captions](https://karaokecaptions.com/) - Generate and edit word-by-word video captions locally in the browser, with MP4, SRT and VTT export.
 
 
 ### Text To Video
